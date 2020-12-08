@@ -1,0 +1,45 @@
+body {
+}
+
+h1, p {
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;;
+  margin: 10px;
+}
+
+h2 {
+  text-align: left;
+}
+
+h4 {
+  text-align: center;
+}
+
+#nav-link {
+  font-size: 15px;
+}
+
+#cart {
+  width: 100%;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  justify-content:space-between;
+}
+
+#card {
+  text-align: center;
+}
+
+Paper {
+  text-align: center;
+  justify-content: center;
+}
+
+.card-container {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
